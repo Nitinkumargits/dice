@@ -1,16 +1,21 @@
-# dice
+# Dicee 🎲
 
-A new Flutter project.
 
-## Getting Started
+## Flutter project.
+This project include some of core programming concepts that will form the foundation of the diceApp
+
+## Flutter Widget use :-
+
+- MaterialApp()
+- Scaffold()
+- AppBar90
+- StatefulWidget{}
+- Expanded()
+- TextButton()  ---/ or /--- FlatButton()
+- Image.asset('')
+
+## Getting Started with DiceApp Demo 📱
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/dicee-demo.gif)
